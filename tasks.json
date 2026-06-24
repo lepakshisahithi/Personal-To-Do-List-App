@@ -1,0 +1,14 @@
+[
+    {
+        "title": "book purchase",
+        "description": "python book",
+        "category": "personal",
+        "completed": false
+    },
+    {
+        "title": "project completion",
+        "description": "project",
+        "category": "work",
+        "completed": true
+    }
+]
